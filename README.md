@@ -12,18 +12,20 @@
 
 ### 👨‍💻 About Me
 
-I am a learner of the **ALX Software Engineering Program**, passionate about building meaningful digital solutions that improve efficiency and connect people.  
-I started my journey in software engineering to **transform ideas into scalable, real-world applications** — and to empower organizations through **technology, innovation, and collaboration**.
+### 👨‍💻 About Me
 
-💡 **What inspires me:**  
-The drive to **simplify complexity** through design, data, and code — turning problems into solutions that make an impact.  
+I’m **Amare Ushule**, a passionate **Software Engineer** specializing in **Backend Development** with  **API-driven architectures**.  
+I have hands-on experience building secure and scalable systems — integrating **Flutter**, **Angular**, and **Supabase** to deliver seamless full-stack solutions.  
+Currently advancing my expertise through the **ALX Software Engineering Program**, I focus on creating impactful applications that drive efficiency, collaboration, and digital transformation within organizations.  
+
+💡 **Driven by:** clean architecture, performance optimization, and real-world problem-solving through code.  
 
 🎯 **My Aim:**  
 To become a **leading software engineer** who contributes to Africa’s digital transformation through open-source innovation and enterprise solutions.  
 
 💼 **I’d love to work on:**  
 - Mobile and web apps that connect people and services  
-- Cloud-integrated systems (Firebase, AWS, Google Cloud)  
+- Cloud-integrated systems (Supabase, AWS)  
 - Data-driven and AI-augmented projects for organizations  
 
 ---
