@@ -65,10 +65,26 @@ Currently deepening my skills in:
 ### 🌍 Connect With Me
 <p align="left">
   <a href="mailto:amirushule@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/amare-ushule/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mamareu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://github.com/AmareUshule"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+### 🌍 Connect With Me
+<p align="left">
+  <a href="mailto:amirushule@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mamareu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/AmareUshule">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://amareushule.ethiodigital.com.et/">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
 
 ---
 
