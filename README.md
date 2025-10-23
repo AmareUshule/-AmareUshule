@@ -12,8 +12,6 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 I’m **Amare Ushule**, a passionate **Software Engineer** specializing in **Backend Development** with  **API-driven architectures**.  
 I have hands-on experience building secure and scalable systems — integrating **Flutter**, **Angular**, and **Supabase** to deliver seamless full-stack solutions.  
 
