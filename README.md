@@ -31,7 +31,7 @@ To become a **leading software engineer** who contributes to Africa’s digital 
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,html,css,js,react,python,java,mysql,postgresql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,supabase,html,css,angular,react,python,spring boot,postgresql,linux" />
 </p>
 
 ---
