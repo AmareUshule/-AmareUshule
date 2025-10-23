@@ -1,7 +1,6 @@
-# -AmareUshule
 
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Amare Ushule</h1>
+<h1 align="center">Hey I'm Amare Ushule</h1>
 <h3 align="center">Software Engineer | Mobile & Web Developer | Data Enthusiast</h3>
 
 <!-- Profile Views -->
