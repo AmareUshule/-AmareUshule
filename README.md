@@ -16,6 +16,7 @@
 
 I’m **Amare Ushule**, a passionate **Software Engineer** specializing in **Backend Development** with  **API-driven architectures**.  
 I have hands-on experience building secure and scalable systems — integrating **Flutter**, **Angular**, and **Supabase** to deliver seamless full-stack solutions.  
+
 Currently advancing my expertise through the **ALX Software Engineering Program**, I focus on creating impactful applications that drive efficiency, collaboration, and digital transformation within organizations.  
 
 💡 **Driven by:** clean architecture, performance optimization, and real-world problem-solving through code.  
